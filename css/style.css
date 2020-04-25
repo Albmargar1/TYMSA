@@ -349,8 +349,8 @@ button:focus{
 }
 
 .top-header .navbar .navbar-collapse ul li a::after{
-	width: 30px;
-	height: 15px;
+	width: 0px;
+	height: 0px;
 	content: "";
 	float: left;
 	position: absolute;
@@ -364,13 +364,13 @@ button:focus{
 }
 
 .top-header .navbar .navbar-collapse ul li a.active{
-	background: #70c6eb;
-	color: #ffffff;
+	background: #ad3b3060;
+  color: #000000;
 }
 
 .top-header .navbar .navbar-collapse ul li a:hover{
-	background: #70c6eb;
-	color: #ffffff;
+	background: #ad3b3010;
+  color: #000000;
 }
 
 
@@ -866,7 +866,6 @@ figure.effect-service:hover{
 
 .properties-box{
 	padding: 70px 0px;
-	background-color: #f2f3f5;
 }
 
 .single-team-member {
@@ -1000,6 +999,7 @@ figure.effect-service:hover{
 
 .properties-dit{
 	padding: 15px;
+  background-color: #ad3b3009;
 }
 
 .properties-dit h3{
