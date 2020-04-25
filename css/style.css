@@ -1202,8 +1202,12 @@ figure.effect-service:hover{
 }
 .cont-line{
 	overflow: hidden;
-	margin-bottom: 30px;
   text-align: center;
+}
+
+.cont-line-marging{
+  	margin-bottom: 30px;
+    margin-top: 30px;
 }
 .icon-b{
 	width: 80px;
@@ -1226,7 +1230,7 @@ figure.effect-service:hover{
 	font-size: 14px;
 }
 .dit-right a{
-	font-size: 14px;
+	font-size: 20px;
 	color: #3a4149
 }
 .dit-right a:hover{
