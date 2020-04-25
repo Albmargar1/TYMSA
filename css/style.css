@@ -152,7 +152,7 @@ button:focus{
 
 
 /*------------------------------------------------------------------
-    LOADER 
+    LOADER
 -------------------------------------------------------------------*/
 
 #preloader {
@@ -1015,7 +1015,7 @@ figure.effect-service:hover{
 	line-height: 30px;
 }
 .properties-dit ul li i{
-	float: right;	
+	float: right;
 	padding: 7px 10px;
 	font-size: 15px;
 	color: #57cef8;
@@ -1198,14 +1198,16 @@ figure.effect-service:hover{
 }
 .cont-line{
 	overflow: hidden;
-	margin-bottom: 30px;
+  float: left;
+	margin-right: 30px;
 }
+
 .icon-b{
-	width: 80px;
-	height: 80px;
+	width: 40px;
+	height: 40px;
 	text-align: center;
 	line-height: 80px;
-	font-size: 40px;
+	font-size: 25px;
 	border: 2px dashed #57cef8;
 	margin-right: 10px;
 	color: #57cef8;
@@ -1320,7 +1322,7 @@ select.form-control:not([size]):not([multiple]){
 	width: 100%;
 	margin: 0 auto;
 }
-.subscribe-inner h2{	
+.subscribe-inner h2{
 	font-size: 28px;
 	font-weight: 600;
 	color: #ffffff;
@@ -1347,40 +1349,3 @@ select.form-control:not([size]):not([multiple]){
 	border: none;
 	cursor: pointer;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
